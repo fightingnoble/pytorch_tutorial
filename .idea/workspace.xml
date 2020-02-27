@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed98f8cf-5284-4d9d-8461-c56b2033c5df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WyLRnljC67eEtaA9wQZaBdo5zb" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\model" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\model\torx" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\bak" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\model\torx" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\others" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\model" />
+      <recent name="C:\Users\diyuf\Documents\科研\python\pytorch_tutorial\bak" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pytorch_imagenet">
+    <configuration name="imagenet_pytorx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imagenet_pytorx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist_pytorx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_pytorx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_enum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/model_enum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch_imagenet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_imagenet.py" />
+      <option name="PARAMETERS" value="--model-type VGG8 --Quantized --qbit 2,4 --lr 0.0001 --decreasing-lr 40,60 --epochs 80 --detail --checkpoint-path ./cifar10_w2a4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.imagenet_pytorx" />
+      <item itemvalue="Python.mnist_pytorx" />
+      <item itemvalue="Python.model_enum" />
+      <item itemvalue="Python.pytorch_imagenet" />
+      <item itemvalue="Python.pytorch_mnist" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pytorch_imagenet" />
+        <item itemvalue="Python.imagenet_pytorx" />
+        <item itemvalue="Python.mnist_pytorx" />
+        <item itemvalue="Python.model_enum" />
+        <item itemvalue="Python.pytorch_mnist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed98f8cf-5284-4d9d-8461-c56b2033c5df" name="Default Changelist" comment="" />
+      <created>1580116882104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580116882104</updated>
+      <workItem from="1580116884333" duration="2706000" />
+      <workItem from="1580224627697" duration="40078000" />
+      <workItem from="1580436291156" duration="10930000" />
+      <workItem from="1580529388754" duration="1078000" />
+      <workItem from="1580554013429" duration="11965000" />
+      <workItem from="1580699120163" duration="26375000" />
+      <workItem from="1581055859612" duration="15132000" />
+      <workItem from="1581249959510" duration="9372000" />
+      <workItem from="1581298392804" duration="18940000" />
+      <workItem from="1581470091041" duration="1099000" />
+      <workItem from="1581557908471" duration="3352000" />
+      <workItem from="1581582332592" duration="13610000" />
+      <workItem from="1581643475044" duration="19254000" />
+      <workItem from="1581731539686" duration="1788000" />
+      <workItem from="1581816554958" duration="9185000" />
+      <workItem from="1581867751058" duration="31504000" />
+      <workItem from="1581989777266" duration="2422000" />
+      <workItem from="1581997369864" duration="4749000" />
+      <workItem from="1582015611552" duration="13633000" />
+      <workItem from="1582110800575" duration="235000" />
+      <workItem from="1582171609197" duration="4426000" />
+      <workItem from="1582208257151" duration="34243000" />
+      <workItem from="1582302463692" duration="4422000" />
+      <workItem from="1582340234349" duration="590000" />
+      <workItem from="1582341556170" duration="1195000" />
+      <workItem from="1582427526836" duration="3071000" />
+      <workItem from="1582455584257" duration="1407000" />
+      <workItem from="1582463100811" duration="18740000" />
+      <workItem from="1582555118645" duration="16291000" />
+      <workItem from="1582640060121" duration="5579000" />
+      <workItem from="1582683094544" duration="20912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/mnist_pytorx.py</url>
+          <line>65</line>
+          <log-expression expression="class Net(nn.Module):" language="Python" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytorch_imagenet.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/cifar.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytorch_imagenet.py</url>
+          <line>198</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="loss" />
+        <watch expression="output_adc" />
+        <watch expression="self.delta_i" />
+        <watch expression="self.delta_in_sum" />
+        <watch expression="self.delta_out_sum" />
+        <watch expression="self.delta_w" />
+        <watch expression="self.delta_x" />
+        <watch expression="self.delta_y" />
+        <watch expression="self.features._buffers" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$mnist_test.coverage" NAME="mnist_test Coverage Results" MODIFIED="1580268386327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$pytorch_mnist.coverage" NAME="pytorch_mnist Coverage Results" MODIFIED="1580397913984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$pytorch_imagenet.coverage" NAME="pytorch_imagenet Coverage Results" MODIFIED="1582723931336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$mnist_pytorx.coverage" NAME="mnist_pytorx Coverage Results" MODIFIED="1581660986078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$imagenet_pytorx.coverage" NAME="imagenet_pytorx Coverage Results" MODIFIED="1581912713399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$torchvison_transform.coverage" NAME="torchvison_transform Coverage Results" MODIFIED="1580291688397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial$model_enum.coverage" NAME="model_enum Coverage Results" MODIFIED="1581069034857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+  </component>
+</project>
